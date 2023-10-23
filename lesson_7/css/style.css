@@ -1,0 +1,309 @@
+@import url("fonts.css");
+@import url("reset.css");
+
+body {
+	font-size: 18px;
+}
+
+.menu {
+	padding: 30px;
+	background-color: blue;
+	border-radius: 0% 100% 1% 99% / 84% 54% 46% 16%;
+	width: 11%;
+	height: 150%;
+}
+
+.menu li{
+	margin-bottom: 3px;
+
+}
+.menu a{
+	color: rgb(14, 43, 88);
+	border-bottom: 5px dotted;
+}
+.all-block{
+	margin: 0 auto;
+	max-width: 1218px;
+	font-family: "Inter",sans-serif;
+	font-size: 0;
+	font-weight: 400;
+	/*
+	padding: 50px 350px;*/
+}
+
+.title {
+	text-align: center;
+	margin-bottom: 70px;
+}
+h4 {
+	color: #37393F;
+	font-weight: 500;
+	font-size: 18px;
+	display: inline-block;
+}
+/*
+.licencing img{
+	width: 12px;
+}*/
+
+.title-center {
+	margin-bottom: 16px;
+}
+h1,
+h2,
+h3{
+	font-family: "Poppins",sans-serif;
+	font-weight: 700;
+	color: #37393F;
+}
+
+h1{
+	font-size: 60px;
+	line-height: 1.21;
+}
+
+.block {
+	margin-bottom: 11px;
+}
+.block-icons {
+	margin-bottom: 33px;
+}
+h2{
+	font-size: 40px;
+	line-height: 1.21;
+	margin-bottom: 11px;
+}
+li{
+	font-weight: 500;
+}
+
+p,
+li{
+	color: #7D7D7D;
+	font-size: 18px;
+	line-height: 1.461;
+}
+.Icons {
+	margin-bottom: 100px;
+}
+h3{
+	font-size: 30px;
+	margin-bottom: 8px;
+}
+span{
+	font-family: "Poppins",sans-serif;
+	color: #40DDB6;
+	font-size: 30px;
+	font-weight: 400;
+}
+
+.block-photography {
+	margin-bottom: 24px;
+
+}
+.photography {
+	margin-bottom: 11px;
+}
+
+.pexels {
+	margin-bottom: 24px;
+}
+
+.pexels p,
+.unsplash p {
+	color: #40DDB6;
+}
+
+.unsplash {
+	margin-bottom: 100px;
+}
+
+.block-fonts {
+	margin-bottom: 30px;
+}
+.free span {
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 1.461;
+}
+/*project**/
+.project{
+	max-width: 830px;
+	margin: 0px auto;
+	font-size: 0;
+	font-family: "Inter", sans-serif;
+}
+
+
+.project,
+.project-text,
+.project-text p,
+.project-list li,
+.list-l li,
+.text-p,
+.list-l{
+	margin-bottom: 35px;
+}
+.project-title {
+	margin-bottom: 13px;
+}
+
+.project-list {
+}
+
+.list {
+	font-weight: 500;
+}
+/*Erophoria*/
+
+.euphoria {
+	font-size: 0;
+	margin: 0 auto;
+	padding: 0px 100px;
+}
+.euphoria-block {
+	max-width: 1240px;
+	display: inline-block;
+
+}
+.emhor {
+	margin-right: 21px;
+
+}
+
+.euphoria-title {
+	color: #3C4242;
+	font-family: "Core Sans C",sans-serif;
+	font-size: 28px;
+	line-height: 1.196;
+	letter-spacing: 0.56px;
+	margin-bottom: 30px;
+}
+.sub-euphoria {
+	color: #807D7E;
+	font-family: "Core Sans C",sans-serif;
+	font-size: 20px;
+	line-height: 1.675;
+	letter-spacing: 0.4px;
+	font-weight: 600;
+	margin-bottom: 25px;
+}
+.text-euphoria {
+	color: #807D7E;
+	font-family: "Causten",sans-serif;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 1.67;
+	letter-spacing: 0.4px;
+	margin-bottom: 20px;
+}
+.text-euphoria p{
+	margin-bottom: 20px;
+}
+
+.text-euphoria span{
+	color: #807D7E;
+	font-family: "Causten",sans-serif;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 1.675;
+	letter-spacing: 0.4px;
+}
+/*jewellery*/
+
+.jewellery {
+	max-width: 1108px;
+	margin: 0 auto;
+	font-size: 0;
+	/*
+	padding: 10px 246px;*/
+
+}
+.jewels-title{
+	max-width: 503px;
+	display: inline-block;
+	padding-top: 25px;
+	margin-right: 75px;
+
+}
+.jewels-title h2,
+.jewels-title h4,
+.jew-text p{
+	font-family: "Cormorant Infant",sans-serif;
+
+}
+.jewele {
+	color: #D58417;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 1;
+	margin-bottom: 27px;
+	margin-right: 75px;
+}
+.je {
+	color: #000;
+	font-size: 64px;
+	font-weight: 700;
+	line-height: 1;
+	margin-bottom: 31px;
+}
+
+.jew-text p{
+	color: #606060;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 1.42;
+	width: 489px;
+	margin-right: 89px;
+	margin-bottom: 100px;
+}
+.jewe,
+.jewel{
+	width: 100%;
+}
+
+.jewel {
+	width: 177px;
+	height: 336px;
+	margin-top: 50px;
+	margin-right: 23px;
+}
+
+.jewe {
+	width: 308px;
+	height: 506px;
+	margin-top: -80px;
+}
+/*practica*/
+
+.practic {
+	max-width: 1200px;
+	margin: 0 auto;
+	font-size: 0;
+}
+.solid {
+	font-size: 25px;
+	border-radius: 35%;
+	border: 10px solid #000000;
+	margin-bottom: 25px;
+}
+.dotted {
+	font-size: 35px;
+	border-top: 3px dotted red;
+	border-right: 5px dashed yellow;
+	border-bottom: 2px dotted blue;
+	border-left: 1px solid black;
+	margin-bottom: 35px;
+}
+.dached {
+	font-size: 30px;
+	border:5px solid #7D7D7D;
+	box-shadow:5px 5px 20px 5px #000;
+	margin-bottom: 25px;
+}
+.double {
+	font-size: 30px;
+	border:5px solid #5b4747;
+	box-shadow:inset 5px 5px 20px 5px #9d4276;
+	margin-bottom: 25px;
+}
